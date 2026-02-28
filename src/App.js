@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Currency Converter</h1>
+      <h1><i>Currency Converter</i></h1>
       <input
         type="number"
         value={amount}
